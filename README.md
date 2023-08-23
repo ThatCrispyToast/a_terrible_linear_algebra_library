@@ -30,6 +30,7 @@ a_terrible_linear_algebra_library/
 │   └── ...
 │
 ├── README.md
+├── requirements.txt
 └── setup.py (TBC)
 
 ```
@@ -52,12 +53,12 @@ Sample programs that make use of my library. Like using a chainsaw to slice toma
 
 ### Vector Operations:
 
-- [ ] Vector addition (Difficulty: 1)
-- [ ] Vector subtraction (Difficulty: 1)
-- [ ] Scalar-vector multiplication (Difficulty: 1)
-- [ ] Dot product (Difficulty: 2)
-- [ ] Cross product (Difficulty: 3)
-- [ ] Vector magnitude (Difficulty: 1)
+- [x] Vector addition (Difficulty: 1)
+- [x] Vector subtraction (Difficulty: 1)
+- [x] Scalar-vector multiplication (Difficulty: 1)
+- [x] Dot product (Difficulty: 2)
+- [x] Cross product (Difficulty: 3)
+- [x] Vector magnitude (Difficulty: 1)
 - [ ] Unit vector normalization (Difficulty: 2)
 - [ ] Angle between vectors (Difficulty: 3)
 - [ ] Projection of a vector onto another (Difficulty: 3)
